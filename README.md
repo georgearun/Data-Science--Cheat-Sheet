@@ -1,1 +1,1 @@
-# Data Science (Cheat Sheet)
+# Data Science (Cheat Sheets)
