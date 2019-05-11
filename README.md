@@ -1,6 +1,6 @@
 # Data Science Cheatsheets
 
-List of Data Science Cheatsheets to rule the world.
+List of Data Science Cheatsheets :
 
 ## Table of Contents
 - [Machine Learning](https://github.com/abhat222/Data-Science--Cheat-Sheet#machine-learning)
