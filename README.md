@@ -11,3 +11,43 @@ List of Data Science Cheatsheets :
 - [Python](https://github.com/abhat222/Data-Science--Cheat-Sheet#python)
 
 # Python
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Machine Learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Deep Learning
+
