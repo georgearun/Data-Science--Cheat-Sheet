@@ -17,7 +17,7 @@ List of Data Science Cheatsheets :
 
 # Python
 
-<a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Python/Python_cheatsheet.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/python_cheatsheet.PNG?" alt="Illustration" width="415px"/> &nbsp; &nbsp; &nbsp;</a><a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Python/spaCy.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/SpaCy.PNG?" alt="Illustration" width="415px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Python Cheat Sheet &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Spacy Cheat Sheet
+<a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Python/Python_cheatsheet.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/python_cheatsheet.PNG?" alt="Illustration" width="415px"/> &nbsp; &nbsp; &nbsp;</a><a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Python/spaCy.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/SpaCy.PNG?" alt="Illustration" width="415px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Python Cheat Sheet &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Spacy Cheat Sheet
 
 
 
