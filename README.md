@@ -43,10 +43,7 @@ List of Data Science Cheatsheets :
 
 # Machine Learning
 
-<a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/R%20Cheat%20Sheet/R%20Cheat%20Sheets.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/R_cheatsheet.PNG?" alt="Illustration" height="300px" width="415px"/> &nbsp; &nbsp; &nbsp;</a><a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/R%20Cheat%20Sheet/R%20Programming%20Cheat%20Sheet.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/R.PNG?" alt="Illustration" width="415px" height="300px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; <b>R Cheat Sheet<b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <b>R (Basics & Advanced)<b><br/>
 
-
-<a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/R%20Cheat%20Sheet/R%20Cheat%20Sheets.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/R_cheatsheet.PNG?" alt="Illustration" height="300px" width="415px"/> &nbsp; &nbsp; &nbsp;</a><a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/R%20Cheat%20Sheet/R%20Programming%20Cheat%20Sheet.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/R.PNG?" alt="Illustration" width="415px" height="300px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; <b>R Cheat Sheet<b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <b>R (Basics & Advanced)<b><br/>
 
 
 
