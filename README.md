@@ -2,7 +2,7 @@
 <sub>Created by <a href="https://github.com/abhat222"><strong>Asif Bhat</strong></a>
 </p>
  
- <p align="center">
+ <p align="left">
 <sub>LinkedIn <a href="https://www.linkedin.com/in/asif-bhat/"><strong>Asif Bhat</strong></a>
 </p>
  
