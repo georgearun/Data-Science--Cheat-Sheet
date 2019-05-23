@@ -1,3 +1,11 @@
+<p align="Center">
+Created by <a href="https://github.com/abhat222"><strong>Asif Bhat</strong></a>
+</p>
+ 
+ <p align="Center">
+ LinkedIn <a href="https://www.linkedin.com/in/asif-bhat/"><strong>Asif Bhat</strong></a>
+</p>
+ 
 # Data Science Cheatsheets
 
 List of Data Science Cheatsheets :
@@ -17,7 +25,7 @@ List of Data Science Cheatsheets :
 
 # Python
 
-<a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Python/Python_cheatsheet.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/python_cheatsheet.PNG?" alt="Illustration" width="415px"/> &nbsp; &nbsp; &nbsp;</a><a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Python/spaCy.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/SpaCy.PNG?" alt="Illustration" width="415px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Python Cheat Sheet<b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Spacy Cheat Sheet<b><br/>
+<a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Python/Python_cheatsheet.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/python_cheatsheet.PNG?" alt="Illustration" width="415px"/> &nbsp; &nbsp; &nbsp;</a><a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Python/spaCy.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/SpaCy.PNG?" alt="Illustration" width="415px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Python Cheat Sheet</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Spacy Cheat Sheet<b><br/>
   
 
 <a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Python/pandas_cheat_sheet.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/DA_Pandas.PNG?" alt="Illustration" height="320px" width="415px"/> &nbsp; &nbsp; &nbsp;</a><a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Python/Reading%20and%20Writing%20data%20with%20PANDAS.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/RW_Panda.PNG?" alt="Illustration" width="415px" height="320px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Data Analysis with Pandas<b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Pandas (Reading and Writing Data)<b><br/>
