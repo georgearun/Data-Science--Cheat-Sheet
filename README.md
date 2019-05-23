@@ -1,5 +1,5 @@
-<p align="center">
-<h2><sub>Created by <a href="https://github.com/abhat222"><strong>Asif Bhat</strong></a><h2>
+<p align="left">
+<sub>Created by <a href="https://github.com/abhat222"><strong>Asif Bhat</strong></a>
 </p>
  
  <p align="center">
