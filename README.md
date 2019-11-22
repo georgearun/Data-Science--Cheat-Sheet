@@ -1,9 +1,5 @@
-<p align="Center">
-Created by <a href="https://github.com/abhat222"><strong>Asif Bhat</strong></a>
-</p>
- 
- <p align="Center">
- LinkedIn <a href="https://www.linkedin.com/in/asif-bhat/"><strong>Asif Bhat</strong></a>
+<p>
+Taken from <a href="https://github.com/abhat222/Data-Science--Cheat-Sheet"><strong>Link to original GitHub page</strong></a>
 </p>
  
 # Data Science Cheatsheets
@@ -59,37 +55,11 @@ List of Data Science Cheatsheets :
 <a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/R%20Cheat%20Sheet/R%20Cheat%20Sheets.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/R_cheatsheet.PNG?" alt="Illustration" height="300px" width="415px"/> &nbsp; &nbsp; &nbsp;</a><a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/R%20Cheat%20Sheet/R%20Programming%20Cheat%20Sheet.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/R.PNG?" alt="Illustration" width="415px" height="300px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; <b>R Cheat Sheet<b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <b>R (Basics & Advanced)<b><br/>
 
 
-
-
-
-
-
-
-
-
 # Machine Learning
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<a href="https://github.com/cyborg-girl/Data-Science--Cheat-Sheet/blob/master/Machine%20Learning/Applied%20Machine%20Learning%20Problem%20Solving%20Framework.jpg"><img src="https://raw.githubusercontent.com/abhat222/Data-Science--Cheat-Sheet/master/Machine%20Learning/Applied%20Machine%20Learning%20Problem%20Solving%20Framework.jpg" alt="Illustration" height="300px" width="415px"/> &nbsp; &nbsp; &nbsp; </a><a href="https://github.com/cyborg-girl/Data-Science--Cheat-Sheet/blob/master/Machine%20Learning/Cheat%20Sheet%20Algorithms%20for%20Supervised%20and%20Unsupervised%20Learning.pdf"><img src="https://github.com/cyborg-girl/Data-Science--Cheat-Sheet/blob/master/Images/supervised-and-unsupervised-learning.PNG?" alt="Illustration" width="415px" height="300px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; <b>R Cheat Sheet<b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <b>Machine Learning<b><br/>
 
 
 # Deep Learning
 
+<a href="https://github.com/cyborg-girl/Data-Science--Cheat-Sheet/blob/master/Deep%20Learning/Coursera%20Deep%20Learning%20course%20Notes.pdf"><img src="https://github.com/cyborg-girl/Data-Science--Cheat-Sheet/blob/master/Images/coursera-deep-learning.PNG" alt="Illustration" height="300px" width="415px"/> &nbsp; &nbsp; &nbsp; </a><a href="https://github.com/cyborg-girl/Data-Science--Cheat-Sheet/blob/master/Deep%20Learning/super-cheatsheet-deep-learning.pdf"><img src="https://github.com/cyborg-girl/Data-Science--Cheat-Sheet/blob/master/Images/super-cheatsheet-deep-learning.PNG" alt="Illustration" width="415px" height="300px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; <b>R Cheat Sheet<b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <b>Machine Learning<b><br/>
